@@ -11,3 +11,5 @@
  - demo_openmoji.py: オープンソースの絵文字、openmojiのデモ。キー操作のデモ。
  - seven_seg_pg.py: Seven_segクラス
  - lcd_font_pg.py: LCD_fontクラス
+↓Google Drive　参考ファイル
+https://drive.google.com/drive/folders/164nUFbILUFX5rF1f_lnWBymnZ-Ur0PNu?usp=drive_link
