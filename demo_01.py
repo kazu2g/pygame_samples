@@ -24,8 +24,8 @@ while running:
     pygame.draw.rect(screen, (b, a, b), Rect(140, 140, 300, 220))
     pygame.draw.polygon(screen, (255, 255, 255), [(320, 480), (160, 320),(458, 320)], 0)
 
-    a += 3
-    b += -3
+    a += 2
+    b += -2
     color_on = (240, 0, 120)
     color_off = (120, 220, 120)
     for x0 in range(5):
@@ -38,6 +38,9 @@ while running:
     x1 += 1
     if x1 > 4:
         x1 = 0
+        y1 += 1
+    if y1 > 6:
+        y1 = 0
 
     pygame.display.flip()  # update
     clock.tick(5)  # FPS, Frame Per Second
