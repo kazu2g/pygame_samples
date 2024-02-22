@@ -8,6 +8,8 @@
    - https://drive.google.com/file/d/1ncyDWXkpw1Z5vaKjo9u0NeKcOPuH9FyP/view?usp=drive_link ステップ2-4
  - demo_02.py: 7セグのシミュレーション、各セグメントを2ブロックで構成。Seven_segクラス使用。
    - https://drive.google.com/file/d/1Fj9FhKtNnKguKwocn7hLo_6waItHDjoP/view?usp=drive_link 初期動作
+ - demo_03.py:
+   - https://drive.google.com/file/d/1Eavvqg46fSFLfsY1PCvkwQz_3DHSwGBJ/view?usp=drive_link ステップ5   
  - demo_LCD_font_01.py: 5x7のLCDフォント制作用。LCD_fontクラス使用。
    - https://drive.google.com/file/d/1aw0JHykpRDxvvkntJpyCDpf_kkJ52gA1/view?usp=drive_link 初期動作
  - demo_LCD_font.py: 5x7のLCDフォント、完成版。
