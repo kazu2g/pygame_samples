@@ -26,10 +26,10 @@ display1.init_col(
     BLOCK_SIZE=4, BLOCK_INTV=2, COLOR_ON=param.GOLD_BLOCK, COLOR_OFF=param.AIR)
 display1.init_row(X_ORG=8, Y_ORG=22, COL_INTV=6)
 
-# # display2 = LCD_font(screen)
-# # display2.init_col(
-# #     BLOCK_SIZE=7, BLOCK_INTV=8, COLOR_ON=RED, COLOR_OFF=DARK_GRAY)
-# # display2.init_row(X_ORG=8, Y_ORG=13, COL_INTV=6)
+display2 = LCD_font_mc(mc)
+display2.init_col(
+    BLOCK_SIZE=4, BLOCK_INTV=2, COLOR_ON=param.GOLD_BLOCK, COLOR_OFF=param.AIR)
+display2.init_row(X_ORG=8, Y_ORG=13, COL_INTV=6)
 
 
 # # display5 = Seven_seg(screen)
@@ -63,16 +63,16 @@ while running:
         display1.update_col(col=1, code=(dt_now.second/10)% 6)          # 16の位
         display1.update_col(col=0, code=dt_now.second % 10)             # 1の位
 
-#         display2.update_col(col=0, code=dt_now.year/1000)
-#         display2.update_col(col=1, code=dt_now.year%1)
-#         display2.update_col(col=2, code=dt_now.year/1000)
-#         display2.update_col(col=3, code=dt_now.year%10)
-#         display2.update_col(col=4, code=11)
-#         display2.update_col(col=5, code=dt_now.month/10)
-#         display2.update_col(col=6, code=dt_now.month%10)
-#         display2.update_col(col=7, code=11)
-#         display2.update_col(col=8, code=dt_now.day/10)
-#         display2.update_col(col=9, code=dt_now.day%10)
+        display2.update_col(col=9, code=dt_now.year/1000)
+        display2.update_col(col=8, code=dt_now.year%1)
+        display2.update_col(col=7, code=dt_now.year/1000)
+        display2.update_col(col=6, code=dt_now.year%10)
+        display2.update_col(col=5, code=11)
+        display2.update_col(col=4, code=dt_now.month/10)
+        display2.update_col(col=3, code=dt_now.month%10)
+        display2.update_col(col=2, code=11)
+        display2.update_col(col=1, code=dt_now.day/10)
+        display2.update_col(col=0, code=dt_now.day%10)
 
 
 
