@@ -12,7 +12,7 @@
    - https://drive.google.com/file/d/1Eavvqg46fSFLfsY1PCvkwQz_3DHSwGBJ/view?usp=drive_link ステップ5
    - https://drive.google.com/file/d/1jO3UkT-YUzQKBppN5LXG3qiLL3qvzTyl/view?usp=drive_link ステップ6
  - demo_04.py:  マイクラ世界にブロックを配置。
-   -https://drive.google.com/file/d/1ojUQM0nAtM2PoPQUUq_pQiL3b1w3r8mv/view?usp=drive_link ステップ8  
+   - https://drive.google.com/file/d/1ojUQM0nAtM2PoPQUUq_pQiL3b1w3r8mv/view?usp=drive_link ステップ8  
  - demo_LCD_font_01.py: 5x7のLCDフォント制作用。LCD_fontクラス使用。
    - https://drive.google.com/file/d/1aw0JHykpRDxvvkntJpyCDpf_kkJ52gA1/view?usp=drive_link 初期動作
    - https://drive.google.com/file/d/1TJJ0cHg59rY54sSGrSPvLnT_rVZNiCr5/view?usp=drive_link ステップ4
