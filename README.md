@@ -1,7 +1,7 @@
 # pygame_samples
 
  - demo_01.py: pygameの超簡単なデモ。
-   - [https://drive.google.com/file/d/1XHwtilK-Q1SlzvUiR_Bfj9lqdTfLslZg/view?usp=drive_link](http://drive.google.com/uc?export=view&id={1XHwtilK-Q1SlzvUiR_Bfj9lqdTfLslZg}) 初期動作
+   - http://drive.google.com/uc?export=view&id={1XHwtilK-Q1SlzvUiR_Bfj9lqdTfLslZg}  初期動作
    - https://drive.google.com/file/d/1UcgUSLEWq26YHODtfhxD5z7CnNcO9v4D/view?usp=drive_link ステップ2-1
    - https://drive.google.com/file/d/17ve5T4rQMup_y4FDGRQ0tM1N7kaKQ47o/view?usp=drive_link ステップ2-2
    - https://drive.google.com/file/d/1bIwfgUpzJDzIUeiPR59fzgH8BrmznuBp/view?usp=drive_link ステップ2-3
