@@ -1,13 +1,15 @@
 # pygame_samples
 
  - demo_01.py: pygameの超簡単なデモ。
-   - https://drive.google.com/file/d/1XHwtilK-Q1SlzvUiR_Bfj9lqdTfLslZg/view?usp=drive_link   初期動作![demo_01 pyステップ2-1](https://github.com/kazu2g/pygame_samples/assets/63452221/c06179ae-7873-47d4-ad95-0697cc66d6ee)
+   - https://drive.google.com/file/d/1XHwtilK-Q1SlzvUiR_Bfj9lqdTfLslZg/view?usp=drive_link   初期動作
 
+   - https://drive.google.com/file/d/1UcgUSLEWq26YHODtfhxD5z7CnNcO9v4D/view?usp=drive_link ステップ2-1![demo_01 pyステップ2-1](https://github.com/kazu2g/pygame_samples/assets/63452221/c06179ae-7873-47d4-ad95-0697cc66d6ee)
 
-   - https://drive.google.com/file/d/1UcgUSLEWq26YHODtfhxD5z7CnNcO9v4D/view?usp=drive_link ステップ2-1
-   - https://drive.google.com/file/d/17ve5T4rQMup_y4FDGRQ0tM1N7kaKQ47o/view?usp=drive_link ステップ2-2
+   - https://drive.google.com/file/d/17ve5T4rQMup_y4FDGRQ0tM1N7kaKQ47o/view?usp=drive_link ステップ2-2![demo_01 pyステップ2-2](https://github.com/kazu2g/pygame_samples/assets/63452221/095be771-ad37-47b5-a8b0-dcf1d769353c)
+
    - https://drive.google.com/file/d/1bIwfgUpzJDzIUeiPR59fzgH8BrmznuBp/view?usp=drive_link ステップ2-3
-   - https://drive.google.com/file/d/1ncyDWXkpw1Z5vaKjo9u0NeKcOPuH9FyP/view?usp=drive_link ステップ2-4
+   - https://drive.google.com/file/d/1ncyDWXkpw1Z5vaKjo9u0NeKcOPuH9FyP/view?usp=drive_link ステップ2-4![demo_01 pyステップ2-4](https://github.com/kazu2g/pygame_samples/assets/63452221/9d2338a0-1436-41a1-b11d-0e51871b91a4)
+
  - demo_02.py: 7セグのシミュレーション、各セグメントを2ブロックで構成。Seven_segクラス使用。
    - https://drive.google.com/file/d/1Fj9FhKtNnKguKwocn7hLo_6waItHDjoP/view?usp=drive_link 初期動作
  - demo_03.py:　LCDフォントで時刻、日付の表示。
