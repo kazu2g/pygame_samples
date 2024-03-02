@@ -13,12 +13,16 @@
  - demo_02.py: 7セグのシミュレーション、各セグメントを2ブロックで構成。Seven_segクラス使用。
    - https://drive.google.com/file/d/1Fj9FhKtNnKguKwocn7hLo_6waItHDjoP/view?usp=drive_link 初期動作
  - demo_03.py:　LCDフォントで時刻、日付の表示。
-   - https://drive.google.com/file/d/1Eavvqg46fSFLfsY1PCvkwQz_3DHSwGBJ/view?usp=drive_link ステップ5
-   - https://drive.google.com/file/d/1jO3UkT-YUzQKBppN5LXG3qiLL3qvzTyl/view?usp=drive_link ステップ6
+   - https://drive.google.com/file/d/1Eavvqg46fSFLfsY1PCvkwQz_3DHSwGBJ/view?usp=drive_link ステップ5![demo_03 pyステップ5](https://github.com/kazu2g/pygame_samples/assets/63452221/0ab339e1-315a-48dd-990f-7e06c15d30bc)
+
+   - https://drive.google.com/file/d/1jO3UkT-YUzQKBppN5LXG3qiLL3qvzTyl/view?usp=drive_link ステップ6![demo_03 pyステップ6](https://github.com/kazu2g/pygame_samples/assets/63452221/cd393d62-1026-4970-a5ea-a13502d31c95)
+
  - demo_04.py:  マイクラ世界にブロックを配置。
-   - https://drive.google.com/file/d/1ojUQM0nAtM2PoPQUUq_pQiL3b1w3r8mv/view?usp=drive_link ステップ8  
+   - https://drive.google.com/file/d/1ojUQM0nAtM2PoPQUUq_pQiL3b1w3r8mv/view?usp=drive_link ステップ8![demo_04 pyステップ8](https://github.com/kazu2g/pygame_samples/assets/63452221/8f7db547-d9f0-4a74-88a7-5a5838d803c9)
+  
  - demo_LCD_font_01.py: 5x7のLCDフォント制作用。LCD_fontクラス使用。
-   - https://drive.google.com/file/d/1aw0JHykpRDxvvkntJpyCDpf_kkJ52gA1/view?usp=drive_link 初期動作
+   - https://drive.google.com/file/d/1aw0JHykpRDxvvkntJpyCDpf_kkJ52gA1/view?usp=drive_link 初期動作![demo_LCD_font_01 py初期動作](https://github.com/kazu2g/pygame_samples/assets/63452221/7e256ab9-6fe0-4a5e-8560-956b25a26a58)
+
    - https://drive.google.com/file/d/1TJJ0cHg59rY54sSGrSPvLnT_rVZNiCr5/view?usp=drive_link ステップ4
  - demo_LCD_font.py: 5x7のLCDフォント、完成版。
  - demo_freetype.py: pygame.freetypeでテキスト表示。（新しい方式）
