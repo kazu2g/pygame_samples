@@ -18,7 +18,8 @@
    - https://drive.google.com/file/d/1jO3UkT-YUzQKBppN5LXG3qiLL3qvzTyl/view?usp=drive_link ステップ6![demo_03 pyステップ6](https://github.com/kazu2g/pygame_samples/assets/63452221/cd393d62-1026-4970-a5ea-a13502d31c95)
 
  - demo_04.py:  マイクラ世界にブロックを配置。
-   - [https://drive.google.com/file/d/1ojUQM0nAtM2PoPQUUq_pQiL3b1w3r8mv/view?usp=drive_link](https://drive.google.com/file/d/1dISkjytEco2O11kYG3gL2Q2O0U_89IWp/view?usp=drive_link) ステップ8
+   - [https://drive.google.com/file/d/1ojUQM0nAtM2PoPQUUq_pQiL3b1w3r8mv/view?usp=drive_link]
+   - !(https://drive.google.com/file/d/1dISkjytEco2O11kYG3gL2Q2O0U_89IWp/view?usp=drive_link) ステップ8
     
  - demo_LCD_font_01.py: 5x7のLCDフォント制作用。LCD_fontクラス使用。
    - https://drive.google.com/file/d/1aw0JHykpRDxvvkntJpyCDpf_kkJ52gA1/view?usp=drive_link 初期動作![demo_LCD_font_01 py初期動作](https://github.com/kazu2g/pygame_samples/assets/63452221/7e256ab9-6fe0-4a5e-8560-956b25a26a58)
